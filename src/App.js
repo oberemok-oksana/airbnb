@@ -2,7 +2,6 @@ import "./App.css";
 import Card from "./components/Card";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import woman from "./images/katie-zaferes.png";
 import data from "./data";
 
 function App() {
